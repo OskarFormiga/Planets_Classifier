@@ -1,0 +1,7 @@
+{
+    "step": "Step 2",
+    "train_accuracy": 0.82,
+    "train_loss": 0.5496,
+    "val_accuracy": 0.1074,
+    "val_loss": 7.295
+}
